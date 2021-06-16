@@ -34,7 +34,11 @@ Today in srilanka also most of the shops use smart ways for the bussiness purpos
 * Automated Income and salary management system
 * Online delivering system
 
-
+## Technologies
+* Back end : Php
+* Front end : HTML, CSS, Java Script 
+* Data Base : MySql
+* Server : apache
 
 ## Advisors
 
