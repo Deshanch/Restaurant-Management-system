@@ -1,7 +1,5 @@
 
 # Project Name : Restaurant Management System
-> [Visit our page](https://cepdnaclk.github.io/e16-3yp-automated-railway-ticketing-system/) 
-
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -16,22 +14,8 @@
 
 ## Group Members 
   * Deshan L.A.C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;E/16/076 &nbsp;&nbsp;&nbsp; e16076@eng.pdn.ac.lk
-  * Madushan  K.H.G.H &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/217  &nbsp;&nbsp;&nbsp;&nbsp;e16217@eng.pdn.ac.lk
-  * Madushanka H.M.K &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/221 &nbsp;&nbsp;&nbsp;&nbsp; e16221@eng.pdn.ac.lk
-      
-#### correspond from left to right
-      
-<div id="Group Members" >
-    <div class="inline-block">
-        <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member1.jpg" align="left" width="250" height="250">
-    </div>
-    <div class="inline-block">
-        <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member3.jpg" align="left" width="250" height="250">
-    </div>
-    <div class="inline-block">
-       <img src ="https://github.com/cepdnaclk/e16-3yp-automated-railway-ticketing-system/blob/main/Photos/member2.jpg" alt= " "  width="230" height="250">
-    </div>
-</div>
+  * Thilini Deshika &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/078  &nbsp;&nbsp;&nbsp;&nbsp;e16078@eng.pdn.ac.lk
+  * Sudam Kalpage &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E/16/ &nbsp;&nbsp;&nbsp;&nbsp
 
 ## Introduction
 
