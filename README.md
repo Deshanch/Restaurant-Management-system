@@ -14,7 +14,7 @@ This project was done under,
 * [Introduction](#introduction)
 * [Problem](#problem)
 * [Solution](#solution)
-  * [The Proposed System With Full Explanation](#the-proposed-system-with-full-explanation)
+* [Technologies](#Technologies)
 * [Advisors](#advisors)
 * [Links](#links)
 
